@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Vandana 👋
 
-<!--
-**vandana-cpu/vandana-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Computer Science student
+- 💻 Interested in Machine Learning & Computer Vision
+- 📸 Working on Content-Based Image Retrieval (CBIR) project
+- 🌱 Currently learning: Python, TensorFlow, Streamlit, GitHub
 
-Here are some ideas to get you started:
+## Skills
+- Languages: Python, C/C++
+- Tools & Libraries: NumPy, Pandas, TensorFlow, Streamlit
+- Other: Git & GitHub, Jupyter Notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Content-Based Image Retrieval (CBIR)** – Image search using deep learning.
+- (Add more projects as you create them)
